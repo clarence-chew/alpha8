@@ -1,0 +1,11 @@
+nonbreaking space - -
+zero width space -​-
+javascript injection <script>alert(1);</script>
+ogham space - -
+there should be something here -&nbsp;&nbsp;&nbsp;&nbsp;-
+text going in weird directions ‮backwards‭forwards‮backwards⁦normaltext⁩backwardsagain‭normal text⁧backwards text⁩normal again'
+back to regular text
+this line cannot line break because it has non breaking spaces this line cannot line break because it has non breaking spaces this line cannot line break because it has non breaking spaces
+ž̴̢̧̧̨̧̡̛̞̗̗̭̥͙̭̳̣̥̭̦̗̩̖̻̖̝̪̫̫̝̊́̈́͐́̍͗̍͛̅̉̃͂͑͛̑̉́͐̌̋̄̈̒̄̍̽͂̓͗̀͐̓̄͘͜͝͝͠ͅͅͅa̷̧̡̧̡̢̛̞̲̼̗̪̥͖̻̮̞̝̙̱̺̹̖͖͖͍̠̮̥̯̙͙͙͉̮̹̩̪̲̜̞̻̲͕̞̙̫̣̥̲͋̀̀͌̑̐̈́̃͑̚͘͘͜͝͝l̴̡̢̩̱̫͙͈͙̤̼̞̙͇̣͖̞͇̖̭̳̖̠͂͆̊̇̈́͋̊́̈́̀́̕͝͝͝͝͝ͅǵ̴̨̡̛̖̮̙̭̯͍̟͎̪̼͕͕̜͕̺͈͉̜͇͎͈̩̻͉͇͈͙̗͇͉̝̜̺̘̪̳̠̠͈͕̪͔̬́͑͒͊͑͌̊̓̋̈́̈̀̾̓͛͗̈́͛̃̀̍͆̂͗̔̾̃̆̽̀̀̚̚͜͠͝͝o̸̿̾̒͋̌̎́̚͝͠ͅ ̸̨̻͎͇̞̤̹͔̫̜̮͉͕̤̞́́͋͆̇̅̾̅̋̂̽̇̄̈́̿̚t̶̡̡̢̧̡̛̛̩̺͍͔̤̮͍̙̲͖͇̪̲̻͍̘̖̖̬̳̙̻͍͖͈͙̩͎̻̩͙͉̩͕̟͈̙̣̞̥̊̊̽̽̎͒͐̀͆̄̐̇͋̂̈͗̋̂̈̌̌̽̅̍̀̌̓̓͋̆̅͆̈́̃̕͘̚͝ͅͅͅȩ̶̹̜̗̖͇̜̟͖̫̯̦͓̟͇̖̠̩̯͇̞̫̱̥͚͔̰̝͚̤̫̩̩̜͐͑̇̈̈͌̾̈x̷̰̖̹̭͛͌́͛͐̇͐̆̑̈́̏̒̍̀́͗̌̀̽̊͗̇̚̕̕͝t̷̨̢̖̣̻̟̬͙͖̬̗̠̮͖͉̥̝̗̰̮̟̫̩̱͓͌̀͛́͗͊̔̕͜͝ͅ
+normal stuff again
+//\\//\\/\/\/\/\
